@@ -8,3 +8,6 @@ docker run -d -p 3200:3200 node-app:1.0
 
 The access at:
 http://localhost:3200/
+
+Final result at port 3200:
+![Alt text](/result.png "Result")
