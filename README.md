@@ -10,4 +10,7 @@ The access at:
 http://localhost:3200/
 
 Final result at port 3200:
+
 ![Alt text](/result.png "Result")
+
+Image credit: https://gist.github.com/dhrp/5733652
