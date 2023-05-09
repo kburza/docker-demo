@@ -33,6 +33,6 @@ app.get("/", (req, res) => {
   res.send(`${cssStyle}<pre>${asciiArt}</pre>`);
 });
 
-app.listen(3200, function () {
-  console.log("Node-app listening on port 3200");
+app.listen(8000, function () {
+  console.log("Node-app listening on port 8000");
 });
